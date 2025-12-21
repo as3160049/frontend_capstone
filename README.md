@@ -1,0 +1,1 @@
+A digital healthcare platform designed to automate and streamline the scheduling process between patients and healthcare providers. It replaces traditional manual booking methods—such as phone calls and physical queues—with a 24/7 online system that improves accessibility and operational efficiency.
